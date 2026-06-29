@@ -1,4 +1,4 @@
-# [ツール名（例：AnimeHairSupporter）]
+# [ツール名（AnimeHairSupporter）]
 
 Maya用の髪の毛制作サポートツールです。
 
