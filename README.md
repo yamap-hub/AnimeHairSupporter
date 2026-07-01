@@ -1,7 +1,5 @@
 # Anime Hair Supporter for Maya
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 アニメ調キャラクターの髪の毛（ポリゴン・リボン・ボーン）のモデリングからリギングまでを強力にサポートする、Autodesk Maya向けのスクリプトツール一式です。
 
 選択したエッジからガイドカーブをダイレクトに生成し、滑らかな太さ変化を持つリボン状のサーフェス（肉付け）の作成、そして毛先に向かって正しい親子関係を持つジョイント（骨）の自動配置までを直感的なUIで行うことができます。
