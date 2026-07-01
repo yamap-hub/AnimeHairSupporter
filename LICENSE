@@ -1,21 +1,17 @@
-MIT License
+Anime Hair Supporter for Maya - ソフトウェア利用規約 (License)
 
-Copyright (c) 2026 yamap-hub
+本ソフトウェア（スクリプト、関連ドキュメント等を含む）の利用にあたっては、以下の規約が適用されます。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. 許可される事項 (Permissions)
+- 個人利用・商用利用を問わず、本ソフトウェアを自由にインストールして使用することができます。
+- 本ソフトウェアを使用して作成された3Dモデルや映像作品等の成果物は、商業目的・非商業目的を問わず自由に販売・配信することができます。
+- 利用者個人が自身の業務や作業の効率化のために、本ソフトウェアのソースコードを自由に改変（リビルド、調整等）して使用することを許可します。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. 禁止事項 (Prohibitions)
+- 本ソフトウェアのソースコード、および構成ファイルをそのまま、あるいは一部改変した状態で、第三者へ再配布（二次配布）、転載、譲渡、または販売することを固く禁止します。
+- ダウンロードは必ず公式リポジトリ（GitHub等、作者が指定した正規の場所）から行うものとし、不特定多数がダウンロードできる状態にする行為（ミラーサイトの構築、クラウド共有リンクの公開など）も禁止します。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. 免責事項 (Disclaimer)
+- 本ソフトウェアは「現状有姿」で提供されます。本ソフトウェアの使用（または使用不能）によって生じた、いかなる損害やトラブル（データの破損、Mayaの強制終了、バグによる損失など）についても、開発者は一切の責任を負いません。すべて自己責任でのご利用をお願いいたします。
+
+Copyright (c) 2026 [yamap]
